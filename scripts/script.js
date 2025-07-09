@@ -21,7 +21,7 @@ new Vue({
           name: "Tera Ghata ",
           artist: "Gajendra Verma",
           cover: "img/tera_ghata.jpg",
-          source: "mp3/Tera Ghata - (Raag.fm).mp3",
+          source: "mp3/Tera-Ghata",
           url: "https://youtu.be/0KNk-Joi-NM?si=HQt-MT3l5gAuVTpZ",
           favorited: true
         },
@@ -30,7 +30,7 @@ new Vue({
           name: "Coca Cola 🥤",
           artist: "Tony Kakkar",
           cover: "img/Coca_cola.jpg",
-          source: "mp3/Coca Cola Tu - (Raag.fm).mp3",
+          source: "mp3/Cocacolatu",
           url: "https://youtu.be/_cPHiwPqbqo?si=0oMYRzND8dMtgcK-",
           favorited: false
         },
@@ -39,7 +39,7 @@ new Vue({
           name: "Shaky 🔥",
           artist: "Sanju Rathod",
           cover: "img/Shaky.jpg",
-          source: "mp3/Shaky - (Raag.fm).mp3",
+          source: "mp3/Shaky",
           url: "https://youtu.be/sUf2PtEZris?si=L9nueSTbfn9MNJGo",
           favorited: false
         },
@@ -47,7 +47,7 @@ new Vue({
           name: "Senorita 💃🏼",
           artist: "Farhan Akhtar",
           cover: "img/senorita.jpg",
-          source: "mp3/Senorita - (Raag.Fm)",
+          source: "mp3/Senorita",
           url: "https://youtu.be/yDv0WSgXJVg?si=gqEIPh1h1StgIUDb",
           favorited: true
         },
@@ -55,7 +55,7 @@ new Vue({
           name: "Gulabi Aankhen 🌹👀",
           artist: "Sanam",
           cover: "img/Gulabi_Ankhen.jpg",
-          source: "mp3/Gulabi Aankhen Jo Teri - The Train - (Raag.Fm)",
+          source: "mp3/Gulabi-Aankhen",
           url: "https://youtu.be/hgi2MYAFgE8?si=vPVtztbFG4k-WcU7",
           favorited: false
         },
