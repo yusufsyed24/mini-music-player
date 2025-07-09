@@ -22,7 +22,7 @@ new Vue({
           artist: "Gajendra Verma",
           cover: "img/tera_ghata.jpg",
           source: "mp3/Tera Ghata - (Raag.fm).mp3",
-          url: "https://www.youtube.com/watch?v=0KNk-Joi-NM",
+          url: "https://youtu.be/0KNk-Joi-NM?si=HQt-MT3l5gAuVTpZ",
           favorited: true
         },
 
@@ -31,7 +31,7 @@ new Vue({
           artist: "Tony Kakkar",
           cover: "img/Coca_cola.jpg",
           source: "mp3/Coca Cola Tu - (Raag.fm).mp3",
-          url: "https://youtu.be/_cPHiwPqbqo?si=qe8IEWz3kfjP75Tw",
+          url: "https://youtu.be/_cPHiwPqbqo?si=0oMYRzND8dMtgcK-",
           favorited: false
         },
 
@@ -40,7 +40,7 @@ new Vue({
           artist: "Sanju Rathod",
           cover: "img/Shaky.jpg",
           source: "mp3/Shaky - (Raag.fm).mp3",
-          url: "https://www.youtube.com/watch?v=sUf2PtEZris",
+          url: "https://youtu.be/sUf2PtEZris?si=L9nueSTbfn9MNJGo",
           favorited: false
         },
         {
@@ -48,7 +48,7 @@ new Vue({
           artist: "Farhan Akhtar",
           cover: "img/senorita.jpg",
           source: "mp3/Senorita - (Raag.Fm)",
-          url: "https://www.youtube.com/watch?v=yDv0WSgXJVgK",
+          url: "https://youtu.be/yDv0WSgXJVg?si=gqEIPh1h1StgIUDb",
           favorited: true
         },
         {
@@ -56,7 +56,7 @@ new Vue({
           artist: "Sanam",
           cover: "img/Gulabi_Ankhen.jpg",
           source: "mp3/Gulabi Aankhen Jo Teri - The Train - (Raag.Fm)",
-          url: "https://www.youtube.com/watch?v=hgi2MYAFgE8&pp=ygUGI2RpbHB1",
+          url: "https://youtu.be/hgi2MYAFgE8?si=vPVtztbFG4k-WcU7",
           favorited: false
         },
         {
