@@ -11,7 +11,7 @@ new Vue({
       tracks: [
         {
           name: "Sun Sathiyaan 💔",
-          artist: "yusuf",
+          artist: "ABCD2",
           cover: "https://iili.io/2eGzfbj.jpg",
           source: "mp3/1.mp3",
           url: "https://www.youtube.com/watch?v=UNs50T6EYwE&list=RDUNs50T6EYwE&start_radio=1",
